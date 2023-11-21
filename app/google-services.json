@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "900819011643",
+    "firebase_url": "https://auto-fire-warning-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "auto-fire-warning",
+    "storage_bucket": "auto-fire-warning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900819011643:android:5a583d70bd8ba35062741e",
+        "android_client_info": {
+          "package_name": "com.example.iotfirealert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqoQcfPk3pYaRQjZJiLO3M8yvEsh7nm18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
